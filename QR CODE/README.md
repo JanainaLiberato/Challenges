@@ -21,8 +21,8 @@ A Frontend Mentor project to replicate a given design of a QR code graphic with 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-challenge-KvkhQ1qj0W)
+- Live Site URL:(https://qrcode-acgr9hbm3-janainaliberato.vercel.app)
 
 
 
